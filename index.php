@@ -26,7 +26,7 @@
                             }
                         }
                     }'>
-          <div class="intro-slide" style="background-image: url(assets/images/demos/demo-4/slider/slide-1.png);">
+          <div class="intro-slide" style="background-image: url(assets/images/banner.png);">
             <div class="container intro-content">
               <div class="row justify-content-end">
                 <div class="col-auto col-sm-7 col-md-6 col-lg-5">
@@ -285,7 +285,7 @@
   <button id="scroll-top" title="Back to Top"><i class="icon-arrow-up"></i></button>
 
   <!-- Mobile Menu -->
-  <!-- <?php include 'mobile_menu.php'; ?> -->
+  <?php include 'mobile_menu.php'; ?>
   <!-- End .mobile-menu-container -->
 
   <!-- Sign in / Register Modal -->

@@ -1,4 +1,4 @@
-<div class="mobile-menu-overlay"></div><!-- End .mobil-menu-overlay -->
+<div class="mobile-menu-overlay"></div>
 <div class="mobile-menu-container">
     <div class="mobile-menu-wrapper">
         <span class="mobile-menu-close"><i class="icon-close"></i></span>
@@ -16,25 +16,21 @@
                 </li>
                 <li>
                     <a href="product.php">Products</a>
-
                 </li>
                 <li>
                     <a href="about.php" class="sf-with-ul">About</a>
-
                 </li>
                 <li>
                     <a href="contact.php">Contact Us</a>
                 </li>
-
             </ul>
-        </nav><!-- End .mobile-nav -->
+        </nav>
         <div class="social-icons">
             <a href="#" class="social-icon" target="_blank" title="Facebook"><i class="icon-facebook-f"></i></a>
-            <!-- <a href="#" class="social-icon" target="_blank" title="Twitter"><i class="icon-twitter"></i></a> -->
             <a href="#" class="social-icon" target="_blank" title="Instagram"><i class="icon-instagram"></i></a>
             <a href="#" class="social-icon" target="_blank" title="Youtube"><i class="icon-youtube"></i></a>
-        </div><!-- End .social-icons -->
-    </div><!-- End .mobile-menu-wrapper -->
+        </div>
+    </div>
 </div>
 
 <!-- <div class="header-bottom sticky-header">
