@@ -30,21 +30,9 @@
             <div class="container intro-content">
               <div class="row justify-content-end">
                 <div class="col-auto col-sm-7 col-md-6 col-lg-5">
-                  <h3 class="intro-subtitle text-third">Deals and Promotions</h3><!-- End .h3 intro-subtitle -->
-                  <h1 class="intro-title">Beats by</h1>
-                  <h1 class="intro-title">Dre Studio 3</h1><!-- End .intro-title -->
 
-                  <div class="intro-price">
-                    <sup class="intro-old-price">$349,95</sup>
-                    <span class="text-third">
-                      $279<sup>.99</sup>
-                    </span>
-                  </div><!-- End .intro-price -->
 
-                  <a href="product.php" class="btn btn-primary btn-round">
-                    <span>Shop More</span>
-                    <i class="icon-long-arrow-right"></i>
-                  </a>
+
                 </div><!-- End .col-lg-11 offset-lg-1 -->
               </div><!-- End .row -->
             </div><!-- End .intro-content -->
@@ -54,20 +42,8 @@
             <div class="container intro-content">
               <div class="row justify-content-end">
                 <div class="col-auto col-sm-7 col-md-6 col-lg-5">
-                  <h3 class="intro-subtitle text-primary">New Arrival</h3><!-- End .h3 intro-subtitle -->
-                  <h1 class="intro-title">Apple iPad Pro <br>12.9 Inch, 64GB </h1><!-- End .intro-title -->
 
-                  <div class="intro-price">
-                    <sup>Today:</sup>
-                    <span class="text-primary">
-                      $999<sup>.99</sup>
-                    </span>
-                  </div><!-- End .intro-price -->
 
-                  <a href="product.php" class="btn btn-primary btn-round">
-                    <span>Shop More</span>
-                    <i class="icon-long-arrow-right"></i>
-                  </a>
                 </div><!-- End .col-md-6 offset-md-6 -->
               </div><!-- End .row -->
             </div><!-- End .intro-content -->
@@ -219,7 +195,7 @@
                 <div class="cta-text text-right text-white">
                   <p>Shop Today’s Deals <br><strong>Awesome Made Easy. HERO7 Black</strong></p>
                 </div><!-- End .cta-text -->
-                <a href="#" class="btn btn-primary btn-round"><span>Shop Now - $429.99</span><i class="icon-long-arrow-right"></i></a>
+                <a href="#" class="btn btn-primary btn-round"><span>Shop Now - Rs.4299</span><i class="icon-long-arrow-right"></i></a>
               </div><!-- End .cta-content -->
             </div><!-- End .col-md-12 -->
           </div><!-- End .row -->

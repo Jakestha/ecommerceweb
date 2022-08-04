@@ -28,30 +28,7 @@
   transform: translateY(0);
   -ms-transform: translateY(0);
 }
-.intro-subtitle {
-  margin-bottom: 0.5rem;
-}
-.intro-title {
-  color: #333;
-  letter-spacing: -0.03em;
-  font-size: 3.4rem;
-  margin-bottom: 0;
-}
-.intro-price {
-  color: #777;
-  font-weight: 700;
-  line-height: 1.2;
-  font-size: 3.4rem;
-  letter-spacing: -0.025em;
-  margin-top: 1rem;
-  margin-bottom: 1.2rem;
-}
-.intro-price sup {
-  top: -0.8em;
-  font-weight: 300;
-  font-size: 1.4rem;
-  letter-spacing: -0.03em;
-}
+
 .intro-old-price {
   position: relative;
 }
@@ -570,47 +547,14 @@
     height: 360px;
   }
 }
-@media screen and (min-width: 768px) {
-  .intro-title {
-    font-size: 4rem;
-  }
-  .intro-price {
-    font-size: 4rem;
-  }
-  .intro-price sup {
-    font-size: 1.6rem;
-  }
-}
+
 @media screen and (min-width: 992px) {
   .intro-slider-container,
   .intro-slide {
     height: 400px;
   }
-  .intro-price {
-    font-size: 4.4rem;
-  }
-  .intro-price sup {
-    font-size: 1.8rem;
-  }
-  .intro-title {
-    font-size: 4.4rem;
-  }
 }
 @media screen and (min-width: 1200px) {
-  .intro-content .btn {
-    min-width: 170px;
-  }
-  .intro-title {
-    font-size: 5rem;
-  }
-  .intro-price {
-    font-size: 5rem;
-    margin-bottom: 1.7rem;
-  }
-  .intro-price sup {
-    top: -1.1em;
-    font-size: 2rem;
-  }
   .owl-theme .owl-nav [class*="owl-"] {
     width: 4rem;
     height: 4rem;

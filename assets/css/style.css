@@ -4909,7 +4909,7 @@ p {
   align-items: center;
 }
 .footer-payments a img {
-  width: 120px;
+  width: 50px;
   display: inline;
 }
 /* foooter added end */
@@ -9459,27 +9459,8 @@ button:focus {
   transform: translateY(-50%);
   -ms-transform: translateY(-50%);
 }
-.intro-content .btn {
-  font-size: 1.2rem;
-  min-width: 90px;
-  padding: 0.65rem 1rem;
-}
-.intro-subtitle {
-  color: #fff;
-  font-weight: 300;
-  font-size: 1.4rem;
-  letter-spacing: -0.01em;
-  margin-bottom: 0.5rem;
-}
-.intro-title {
-  color: #fff;
-  font-weight: 700;
-  font-size: 3rem;
-  line-height: 1.2;
-  letter-spacing: -0.03em;
-  margin-bottom: 1.2rem;
-  text-indent: -0.2rem;
-}
+
+
 
 .title-lg {
   letter-spacing: -0.025em;
@@ -9994,36 +9975,17 @@ button:focus {
   .intro-content {
     left: 50px;
   }
-  .intro-content .btn {
-    font-size: 1.2rem;
-    min-width: 110px;
-    padding-top: 0.75rem;
-    padding-bottom: 0.75rem;
-  }
-  .intro-subtitle {
-    font-size: 1.6rem;
-  }
-  .intro-title {
-    font-size: 3.6rem;
-    margin-bottom: 1.3rem;
-  }
+
+
+
 }
 @media screen and (min-width: 768px) {
   .intro-content {
     left: 70px;
   }
-  .intro-content .btn {
-    font-size: 1.3rem;
-    min-width: 130px;
-    padding: 0.95rem 1.5rem;
-  }
-  .intro-subtitle {
-    font-size: 1.8rem;
-  }
-  .intro-title {
-    font-size: 4.2rem;
-    margin-bottom: 1.7rem;
-  }
+
+
+
 }
 @media screen and (min-width: 992px) {
   .cta-display .cta-title {
@@ -10034,18 +9996,8 @@ button:focus {
   .intro-content {
     left: 100px;
   }
-  .intro-content .btn {
-    font-size: 1.4rem;
-    min-width: 150px;
-    padding-top: 1.15rem;
-    padding-bottom: 1.15rem;
-  }
-  .intro-subtitle {
-    font-size: 2rem;
-  }
-  .intro-title {
-    font-size: 5.2rem;
-  }
+
+
 }
 @media screen and (max-width: 575px) {
   .cta-display .cta-desc {

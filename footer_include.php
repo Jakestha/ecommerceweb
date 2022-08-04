@@ -86,7 +86,7 @@
         <div class="container">
             <div class="footer-copywrite">
                 <div class="footer-payments">
-                    <a href="https://aamayagroup.com/"> <img src="assets/images/aamaya-logo-nav.png" alt="logo"> Authorized By Aamaya Group</a>
+                    <a href="https://aamayagroup.com/"> <img src="assets/images/aamaya-group.png" alt="logo"> Authorized By Aamaya Group</a>
                 </div>
                 <p class="footer-copyright">Copyright © 2022 Ecommerce. All Rights Reserved.</p><!-- End .footer-copyright -->
             </div> <!-- End .footer-payments -->
