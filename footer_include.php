@@ -42,7 +42,7 @@
 
                 <div class="col-sm-6 col-lg-3">
                     <div class="widget widget-space">
-                        <h4 class="widget-title">Useful Links</h4><!-- End .widget-title -->
+                        <h4 class="widget-title">Quick Links</h4><!-- End .widget-title -->
 
                         <ul class="widget-list">
                             <li><a href="index.php">Home </a></li>
