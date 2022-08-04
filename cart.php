@@ -47,7 +47,7 @@
                                                 <div class="product">
                                                     <figure class="product-media">
                                                         <a href="#">
-                                                            <img src="assets/images/products/table/product-1.jpg" alt="Product image">
+                                                            <img src="assets/images/wishlist-1.jpg" alt="Product image">
                                                         </a>
                                                     </figure>
 
@@ -70,7 +70,7 @@
                                                 <div class="product">
                                                     <figure class="product-media">
                                                         <a href="#">
-                                                            <img src="assets/images/products/table/product-2.jpg" alt="Product image">
+                                                            <img src="assets/images/wishlist-2.jpg" alt="Product image">
                                                         </a>
                                                     </figure>
 
