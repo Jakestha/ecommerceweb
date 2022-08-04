@@ -28,7 +28,6 @@
 
             </ul>
         </nav><!-- End .mobile-nav -->
-
         <div class="social-icons">
             <a href="#" class="social-icon" target="_blank" title="Facebook"><i class="icon-facebook-f"></i></a>
             <!-- <a href="#" class="social-icon" target="_blank" title="Twitter"><i class="icon-twitter"></i></a> -->
@@ -37,7 +36,8 @@
         </div><!-- End .social-icons -->
     </div><!-- End .mobile-menu-wrapper -->
 </div>
-<div class="header-bottom sticky-header">
+
+<!-- <div class="header-bottom sticky-header">
     <div class="container">
         <div class="header-left">
             <div class="dropdown category-dropdown">
@@ -86,5 +86,5 @@
         <div class="header-right">
         </div>
     </div>
-</div>
+</div> -->
 <!-- End .header-bottom -->

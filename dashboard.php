@@ -164,7 +164,6 @@
     <div class="mobile-menu-overlay"></div><!-- End .mobil-menu-overlay -->
 
     <?php include 'mobile_menu.php'; ?>
-    >
     <!-- End .mobile-menu-container -->
 
     <!-- Sign in / Register Modal -->

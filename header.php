@@ -4,9 +4,7 @@
             <div class="header-left">
                 <a href="tel:#"><i class="icon-phone"></i>Call: +977 51245125</a>
             </div><!-- End .header-left -->
-
             <div class="header-right">
-
                 <ul class="top-menu">
                     <li>
                         <a href="#">Links</a>
@@ -85,7 +83,6 @@
                         <p>Wishlist</p>
                     </a>
                 </div><!-- End .compare-dropdown -->
-
                 <div class="dropdown cart-dropdown">
                     <a href="#" class="dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-display="static">
                         <div class="icon">
@@ -94,7 +91,6 @@
                         </div>
                         <p>Cart</p>
                     </a>
-
                     <div class="dropdown-menu dropdown-menu-right">
                         <div class="dropdown-cart-products">
                             <div class="product">
@@ -201,9 +197,7 @@
                     </ul><!-- End .menu -->
                 </nav><!-- End .main-nav -->
             </div><!-- End .header-center -->
-
             <div class="header-right">
-
             </div>
         </div>
     </div>
