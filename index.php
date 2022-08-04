@@ -26,7 +26,7 @@
                             }
                         }
                     }'>
-          <div class="intro-slide" style="background-image: url(assets/images/demos/demo-4/slider/slide-1.png);">
+          <div class="intro-slide" style="background-image: url(assets/images/banner.png);">
             <div class="container intro-content">
               <div class="row justify-content-end">
                 <div class="col-auto col-sm-7 col-md-6 col-lg-5">
@@ -62,7 +62,7 @@
               <a href="product.php" class="cat-block">
                 <figure>
                   <span>
-                    <img src="assets/images/demos/demo-4/cats/1.png" alt="Category image">
+                    <img src="assets/images/cat-1.png" alt="Category image">
                   </span>
                 </figure>
 
@@ -74,7 +74,7 @@
               <a href="product.php" class="cat-block">
                 <figure>
                   <span>
-                    <img src="assets/images/demos/demo-4/cats/2.png" alt="Category image">
+                    <img src="assets/images/cat-2.png" alt="Category image">
                   </span>
                 </figure>
 
@@ -86,7 +86,7 @@
               <a href="product.php" class="cat-block">
                 <figure>
                   <span>
-                    <img src="assets/images/demos/demo-4/cats/3.png" alt="Category image">
+                    <img src="assets/images/cat-3.png" alt="Category image">
                   </span>
                 </figure>
 
@@ -98,7 +98,7 @@
               <a href="product.php" class="cat-block">
                 <figure>
                   <span>
-                    <img src="assets/images/demos/demo-4/cats/4.png" alt="Category image">
+                    <img src="assets/images/cat-4.png" alt="Category image">
                   </span>
                 </figure>
 
@@ -110,7 +110,7 @@
               <a href="product.php" class="cat-block">
                 <figure>
                   <span>
-                    <img src="assets/images/demos/demo-4/cats/5.png" alt="Category image">
+                    <img src="assets/images/cat-5.png" alt="Category image">
                   </span>
                 </figure>
 
@@ -122,7 +122,7 @@
               <a href="product.php" class="cat-block">
                 <figure>
                   <span>
-                    <img src="assets/images/demos/demo-4/cats/6.png" alt="Category image">
+                    <img src="assets/images/cat-6.png" alt="Category image">
                   </span>
                 </figure>
 
@@ -187,8 +187,8 @@
       <div class="mb-6"></div><!-- End .mb-6 -->
 
       <div class="container">
-        <div class="cta cta-border mb-5" style="background-image: url(assets/images/demos/demo-4/bg-1.jpg);">
-          <img src="assets/images/demos/demo-4/camera.png" alt="camera" class="cta-img">
+        <div class="cta cta-border mb-5" style="background-image: url(assets/images/bg-1.jpg);">
+          <img src="assets/images/camera.png" alt="camera" class="cta-img">
           <div class="row justify-content-center">
             <div class="col-md-12">
               <div class="cta-content">
@@ -261,7 +261,7 @@
   <button id="scroll-top" title="Back to Top"><i class="icon-arrow-up"></i></button>
 
   <!-- Mobile Menu -->
-  <!-- <?php include 'mobile_menu.php'; ?> -->
+  <?php include 'mobile_menu.php'; ?>
   <!-- End .mobile-menu-container -->
 
   <!-- Sign in / Register Modal -->
