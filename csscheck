@@ -4834,11 +4834,7 @@ p {
   margin-bottom: 1rem;
   text-align: center;
 }
-.footer-payments {
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 0;
-}
+
 #scroll-top {
   width: 5rem;
   height: 5rem;

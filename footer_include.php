@@ -84,10 +84,12 @@
 
     <div class="footer-bottom">
         <div class="container">
-            <p class="footer-copyright">Copyright © 2019 Electronic Store. All Rights Reserved.</p><!-- End .footer-copyright -->
-            <figure class="footer-payments">
-                <img src="assets/images/payments.png" alt="Payment methods" width="272" height="20">
-            </figure><!-- End .footer-payments -->
+            <div class="footer-copywrite">
+                <div class="footer-payments">
+                    <a href="https://aamayagroup.com/"> <img src="assets/images/aamaya-logo-nav.png" alt="logo"> Authorized By Aamaya Group</a>
+                </div>
+                <p class="footer-copyright">Copyright © 2022 Ecommerce. All Rights Reserved.</p><!-- End .footer-copyright -->
+            </div> <!-- End .footer-payments -->
         </div><!-- End .container -->
     </div><!-- End .footer-bottom -->
 </footer>
