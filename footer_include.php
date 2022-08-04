@@ -1,5 +1,5 @@
 <footer class="footer">
-    <div class="cta cta-horizontal cta-horizontal-box bg-dark bg-image" style="background-image: url('assets/images/demos/demo-14/bg-1.jpg');">
+    <div class="cta cta-horizontal cta-horizontal-box bg-dark bg-image" style="background-image: url('assets/images/newsletter-1.jpg');">
         <div class="container ">
             <div class="row align-items-center">
                 <div class="col-xl-8 offset-xl-2">
