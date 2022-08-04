@@ -14,7 +14,7 @@
                                 <div class="input-group">
                                     <input type="email" class="form-control" placeholder="Enter your Email Address" aria-label="Email Adress" required>
                                     <div class="input-group-append">
-                                        <button class="btn" type="submit">Subscribe</button>
+                                        <button class="btn" type="submit">Subscribe now</button>
                                     </div><!-- .End .input-group-append -->
                                 </div><!-- .End .input-group -->
                             </form>
