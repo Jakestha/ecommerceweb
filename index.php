@@ -350,7 +350,7 @@
   <button id="scroll-top" title="Back to Top"><i class="icon-arrow-up"></i></button>
 
   <!-- Mobile Menu -->
-  <?php include 'mobile_menu.php'; ?>
+  <!-- <?php include 'mobile_menu.php'; ?> -->
   <!-- End .mobile-menu-container -->
 
   <!-- Sign in / Register Modal -->

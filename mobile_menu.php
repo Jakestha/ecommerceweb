@@ -59,12 +59,11 @@
                             <li><a href="#">Kitchen Cabinets</a></li>
                             <li><a href="#">Coffee & Tables</a></li>
                             <li><a href="#">Outdoor Furniture </a></li>
-                        </ul><!-- End .menu-vertical -->
-                    </nav><!-- End .side-nav -->
-                </div><!-- End .dropdown-menu -->
-            </div><!-- End .category-dropdown -->
-        </div><!-- End .header-left -->
-
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
         <div class="header-center">
             <nav class="main-nav">
                 <ul class="menu sf-arrows">
@@ -81,12 +80,11 @@
                         <a href="contact.php" class="">Contact</a>
                     </li>
 
-                </ul><!-- End .menu -->
-            </nav><!-- End .main-nav -->
-        </div><!-- End .header-center -->
-
-        <div class="header-right">
-
+                </ul>
+            </nav>
         </div>
-    </div><!-- End .container -->
-</div><!-- End .header-bottom -->
+        <div class="header-right">
+        </div>
+    </div>
+</div>
+<!-- End .header-bottom -->
